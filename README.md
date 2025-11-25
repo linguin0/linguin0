@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC000&height=175&section=header&text=Hello!&fontSize=60&fontColor=ffffff" />
-<h2 >⭐ About me ⭐</h2>
+<h1>Hello!</h1>
+<h2>Welcome to my GitHub profile!</h2>
 <pre><code>def introduction():
-    name: Emma                        
-    pronouns: she/her
-    current_study: MEng, BSc Computer Science
-    university: University of Leeds
-    favourite_language = Python
-    current_projects = Task Manager website, Pokemon Battle website using PokeAPI
+    name = "Emma"                  
+    pronouns = "she/her"
+    currently_studying = "MEng, BSc Computer Science"
+    university = "University of Leeds"
+    favourite_language_currently = "Python"
+    current_projects = ["Task Manager website", "Pokemon Battle website w/ PokeAPI"]
 </code></pre>
-<h2>🟡 Languages I have learnt and used 🟡</h2>
+<h2>Languages I have learnt and used</h2>
 <p align='left'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=75 width=75 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=75 width=75 />
