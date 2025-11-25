@@ -1,6 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!&fontSize=90&fontColor=ffffff" />
-<h2>⭐ About me ⭐</h2>
-Info to come!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC000&height=175&section=header&text=Hello!&fontSize=60&fontColor=ffffff" />
+<h2 >⭐ About me ⭐</h2>
+<pre><code>def introduction():
+    name: Emma                        
+    pronouns: she/her
+    current_study: MEng, BSc Computer Science
+    university: University of Leeds
+    favourite_language = Python
+    current_projects = Task Manager website, Pokemon Battle website using PokeAPI
+</code></pre>
 <h2>🟡 Languages I have learnt and used 🟡</h2>
 <p align='left'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=75 width=75 />
