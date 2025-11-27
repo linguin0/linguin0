@@ -6,7 +6,7 @@
     currently_studying = "MEng, BSc Computer Science"
     university = "University of Leeds"
     favourite_language_currently = "Python"
-    current_projects = ["Task Manager website", "Pokemon Battle website w/ PokeAPI"]
+    current_projects = ["Pokemon Battle website w/ PokeAPI"]
 </code></pre>
 <h2>Languages I have learnt and used</h2>
 <p align='left'>
