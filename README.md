@@ -4,11 +4,27 @@
     name = "Emma"                  
     pronouns = "she/her"
     currently_studying = "MEng, BSc Computer Science"
+    current_year = 2
     university = "University of Leeds"
     favourite_language_currently = "Python"
     current_projects = ["Pokemon Battle website w/ PokeAPI"]
 </code></pre>
-<h2>Languages I have learnt and used</h2>
+<pre><code>def what_is_Emma_up_to(current_year):
+    match(current_year):
+        case 1:
+            modules = ["Programming", "Digital Worlds", "Theoretical Foundations"]
+            favourite_module = modules[0]
+            favourite_topic = "Microbit Project"
+        case 2:
+            modules = ["Software Engineering", "Beyond the Core", "Theoretical Foundations II"]
+            favourite_module = modules[1]
+            favourite_topic = "Operating Systems"
+        case _:
+            return [], "We'll have to see!", "We'll have to see!"
+    return modules, favourite_module, favourite_topic</code></pre>
+
+
+<h2>What I know!</h2>
 <p align='left'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=75 width=75 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=75 width=75 />
