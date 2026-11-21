@@ -1,15 +1,13 @@
 <h1>Hello!</h1>
 <h2>Welcome to my GitHub profile!</h2>
 <pre><code>def introduction():
-    name = "Emma"                  
-    pronouns = "she/her"
-    currently_studying = "MEng, BSc Computer Science"
-    current_year = 2
+    currently_studying = "MEng, BSc Computer Science (High-Performance Graphics and Games Engineering)"
+    current_year = 3
     university = "University of Leeds"
     favourite_language_currently = "Python"
     current_projects = ["Pokemon Battle website w/ PokeAPI"]
 </code></pre>
-<pre><code>def what_is_Emma_up_to(current_year):
+<pre><code>def what_am_i_up_to(current_year):
     match(current_year):
         case 1:
             modules = ["Programming", "Digital Worlds", "Theoretical Foundations"]
